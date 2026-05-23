@@ -55,3 +55,6 @@ Domain: Mern Stack Web Development
 Duration: 4 Weeks
 
 Mentor: Neela Santhosh Kumar
+
+output:
+<img width="1766" height="891" alt="Image" src="https://github.com/user-attachments/assets/749fd97d-2268-4c74-b8f2-4901fd4dc437" />
