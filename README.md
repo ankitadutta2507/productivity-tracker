@@ -43,3 +43,15 @@ node server.js
 - Daily Productivity Reports
 - User Authentication
 - Cloud Sync
+
+Company Name: Codtech IT Solutions Private Limited
+
+Name: Ankita Dutta
+
+Intern Id: CTIS9009
+
+Domain: Mern Stack Web Development
+
+Duration: 4 Weeks
+
+Mentor: Neela Santhosh Kumar
