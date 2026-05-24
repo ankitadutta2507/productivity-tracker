@@ -15,7 +15,7 @@ app.use(express.json());
 
 //Connects your backend server to MongoDB database.
 mongoose.connect(
-  "mongodb+srv://ankitadutta2507_db_user:YOUR_PASSWORD@cluster0.vbchons.mongodb.net/?appName=Cluster0"
+  "YOUR-MONGODB STRING"
 )
 .then(() => console.log("MongoDB Connected"))
 .catch((err) => console.log(err));
